@@ -1,4 +1,4 @@
-[![CC BY 4.0][cc-by-shield]][cc-by]
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 # mphil-thesis
 
@@ -14,7 +14,7 @@ Within the `Computation` directory, each subdirectory represents a different por
 
 - `2020_04_29_ClusterMap` contains the ClusterMap attempt on the local Ubuntu machine (the remainder can be found in `Rustbucket Analyses`). 
 
-- `2020_07_03_PutItTogether` contains an exhaustive set of Gene Ontology plots for all the SoxB-positive clusters in each of the datasets. 
+- `2020_07_03_PutItTogether` contains an exhaustive set of Gene Ontology plots for all the SoxB-positive clusters in each of the datasets. The `___.markers.csv` files also provide a full list of markers for each cluster.
 
 - `Cytoscape` contains figures as well as the network file for the Cytoscape analysis.
 
