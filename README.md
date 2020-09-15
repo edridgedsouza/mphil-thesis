@@ -2,7 +2,7 @@
 
 # mphil-thesis
 
-Source for the PDF is in the LaTeX directory. Full text of the thesis is in `Edridge DSouza MPhil Thesis.pdf`.
+Source for the PDF is in the LaTeX directory. Full text of the thesis is in `Edridge DSouza MPhil Thesis.pdf`. [Click this link](https://docs.google.com/viewer?url=https://github.com/edridgedsouza/mphil-thesis/raw/master/Edridge%20DSouza%20MPhil%20Thesis.pdf) to view the PDF in browser.
 
 Within the `Computation` directory, each subdirectory represents a different portion of the project. All files are provided except for the files in the `data` directories, as well as any `.RDS` data files. However, following the `00_setup.sh` script in any of the project directories will create the data directory necessary to run the scripts.
 
