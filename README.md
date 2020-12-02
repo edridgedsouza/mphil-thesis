@@ -18,4 +18,6 @@ Within the `Computation` directory, each subdirectory represents a different por
 
 - `Cytoscape` contains figures as well as the network file for the Cytoscape analysis.
 
-- `Rustbucket Analyses` contains the "regular" and "by the book" analyses for the adult VNC dataset, which was performed on the Rustbucket server. It also contains the other half of the ClusterMap attempted analysis.
+- `Rustbucket Analyses` contains the "regular" and "by the book" analyses for the adult VNC dataset, which was performed on the Rustbucket server. It also contains the other half of the ClusterMap attempted analysis. "By the book" was the version ultimately used for the adult VNC analysis in the text.
+
+Post-defense revisions have also been added.
