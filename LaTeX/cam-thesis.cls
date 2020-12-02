@@ -377,7 +377,7 @@ for the degree of Master of Philosophy%
 \setlength{\cam@logorightnudge}{-0.5\paperwidth+12mm}
 \newsavebox{\cam@logo}
 \begin{lrbox}{\cam@logo}
-\hspace*{\cam@logorightnudge}\includegraphics[width=73mm]{CollegeShields/CUni}
+\hspace*{\cam@logorightnudge}\includegraphics[width=80mm]{CollegeShields/CUni}
 \end{lrbox}
 
 %% THESIS TITLE box
@@ -404,7 +404,7 @@ for the degree of Master of Philosophy%
 \ifcam@collegeshield%
     \newsavebox{\cam@collegeshieldbox}
     \begin{lrbox}{\cam@collegeshieldbox}
-    \includegraphics[height=70mm]{\@collegeshield}
+    \includegraphics[height=100mm]{\@collegeshield}
     \end{lrbox}
 \fi
 
